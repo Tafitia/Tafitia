@@ -24,9 +24,6 @@
     .line { display: block; }
   </style>
 
-  <!-- Optionnel : fond arrondi pour garantir contraste (décommente si besoin) -->
-  <rect x="40" y="20" width="920" height="140" rx="12" fill="rgba(0,0,0,0.06)"/>
-
   <!-- Texte centré et non coupé -->
   <text x="50%" y="45%" class="title">
     <tspan class="line">Hello ! I'm Tafita RANDRIANASOLO</tspan>
