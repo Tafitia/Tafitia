@@ -1,0 +1,21 @@
+<!-- Colle ce code dans un fichier .svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Tafita introduction">
+  <style>
+    :root { --chick: #F6D55C; --font: "Fira Code", "Roboto Mono", monospace; }
+    svg { background: transparent; }
+    .title {
+      font-family: var(--font);
+      font-size: 28px;
+      fill: var(--chick);
+      font-weight: 700;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      letter-spacing: 0.2px;
+    }
+  </style>
+
+  <!-- Centre le texte horizontalement et verticalement -->
+  <text x="50%" y="50%" class="title">
+    Tafita RANDRIANASOLO — curious coder, always ready to learn
+  </text>
+</svg>
