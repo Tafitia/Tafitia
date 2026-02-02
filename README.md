@@ -45,4 +45,5 @@ These passions fuel my creativity and help me bring imagination.
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 
 ## Deployment & DevOps
-<img src="https://skillicons.dev/icons?i=docker,vercel,github,firebase" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,github" />
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
