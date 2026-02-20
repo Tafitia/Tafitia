@@ -45,4 +45,4 @@ These passions fuel my creativity and help me bring imagination.
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 
 ## Deployment & DevOps
-<img src="https://skillicons.dev/icons?i=docker,vercel,github, firebase" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,github,firebase" />
